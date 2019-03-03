@@ -2,3 +2,5 @@
 # returns the phrase
 
 def parrot(arg = "Squawk!")
+  
+assert_select_encoded
